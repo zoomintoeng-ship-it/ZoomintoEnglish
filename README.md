@@ -1,5 +1,4 @@
 # ZoomintoEnglish[index.html](https://github.com/user-attachments/files/25613104/index.html)
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
